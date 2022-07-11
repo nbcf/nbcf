@@ -1,7 +1,7 @@
-#  Me Chamo Nildo Bueno sou Desenvolvedor de Sistemas
+#  Me Chamo Nildo Bueno
   
 #### 💻 Pronomes: ele/dele. 
-Desenvolvedor Front-end em formação e estudante de UX Design.
+Desenvolvedor de Sistemas
 
 ## 📊 Estatísticas 
  
