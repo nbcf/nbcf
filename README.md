@@ -7,7 +7,6 @@ Desenvolvedor de Sistemas
 <p align="left">
 <img  width="25" height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 <img  width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" /></code>
-<img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/css_logo.png" title="CSS" alt="CSS"/></code>
 <img height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker"/></code>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
@@ -23,7 +22,6 @@ Desenvolvedor de Sistemas
 
 ### ⚡ Github Stats</b></summary>
 <div align="center">
-<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbcf&layout=compact&theme=dracula"/>
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbcf&show_icons=true&hide_border=true&layout=compact&langs_count=&theme=dracula"/>	
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=nbcf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&&theme=dracula"/>
 <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=nbcf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula"/>
