@@ -27,7 +27,10 @@ Desenvolvedor de Sistemas
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbcf&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>	
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nbcf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nbcf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default"/>
-          
+div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nbcf&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbcf&layout=compact&theme=graywhite&hide_border=true" width="313" />
+</div>
 ## 📱 Contato  
 <div>
  <a href = "mailto:nildobueno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
