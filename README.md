@@ -3,13 +3,13 @@
 #### 💻 Pronomes: ele/dele. 
 Desenvolvedor de Sistemas
 
-
-## 📊 Estatísticas 
-<div align="center">
-  <a href="https://github.com/nbcf">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nbcf&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> 
+  ### ⚡ Github Stats</b></summary>
+<div align="left">
+<img height="180em" src="/api/top-langs/?username=leandrocgsi&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>	
+<img height="180em" src="https://github.com/nbcf/api?username=leandrocgsi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
 </div>
-  
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrocgsi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
+</div>
   
 ### 🚀 Languages and Tools:</summary>
 
