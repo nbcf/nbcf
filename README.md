@@ -21,7 +21,7 @@ Desenvolvedor de Sistemas
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" title="Oracle" alt="Oracle"/></code>
 <img width="22" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">/>
+<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
 
 </p>
 
