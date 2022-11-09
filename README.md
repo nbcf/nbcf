@@ -22,9 +22,9 @@ Desenvolvedor de Sistemas
 </p>
 
 ### ⚡ Github Stats</b></summary>
-div align="center">
-<img height="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbcf&layout=compact&theme=dracula"/>
-<img height="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbcf&show_icons=true&hide_border=true&layout=compact&langs_count=&theme=dracula"/>	
+<div align="center">
+<img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbcf&layout=compact&theme=dracula"/>
+<img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbcf&show_icons=true&hide_border=true&layout=compact&langs_count=&theme=dracula"/>	
 <img height="440" src="https://github-readme-stats.vercel.app/api?username=nbcf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&&theme=dracula"/>
 <img height="440" src="https://github-readme-streak-stats.herokuapp.com/?user=nbcf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula"/>
   
