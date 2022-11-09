@@ -3,16 +3,7 @@
 #### 💻 Pronomes: ele/dele. 
 Desenvolvedor de Sistemas
 
-  ### ⚡ Github Stats</b></summary>
-<div align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbcf"/>	
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nbcf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
-</div>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nbcf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
-</div>
-  
 ### 🚀 Languages and Tools:</summary>
-
 <p align="left">
 <img  width="25" height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 <img  width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" /></code>
@@ -28,12 +19,15 @@ Desenvolvedor de Sistemas
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" title="Oracle" alt="Oracle"/></code>
 <img width="22" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT"/></code>
-
-
 </p>
-
 #
-
+### ⚡ Github Stats</b></summary>
+<div align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbcf"/>	
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nbcf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
+</div>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nbcf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
+</div>
           
 ## 📱 Contato  
 <div>
