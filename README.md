@@ -3,7 +3,7 @@
 #### 💻 Pronomes: ele/dele. 
 Desenvolvedor de Sistemas
 
-### 🚀 Languages and Tools:</summary>
+🚀 Languages and Tools:</summary>
 <p align="left">
 <img  width="25" height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 <img  width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" /></code>
@@ -24,7 +24,7 @@ Desenvolvedor de Sistemas
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
 </p>
 
-### ⚡ Github Stats</b></summary>
+⚡ Github Stats</b></summary>
 <div align="center">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbcf&show_icons=true&hide_border=true&layout=compact&langs_count=&theme=dracula"/>	
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=nbcf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&&theme=dracula"/>
