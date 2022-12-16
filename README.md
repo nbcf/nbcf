@@ -32,9 +32,4 @@ Desenvolvedor de Sistemas
 <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=nbcf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default"/>
 
 
-## 📱 Contato  
-<div>
- <a href = "mailto:nildobueno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nildobueno@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nildo-bueno-271464167" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
